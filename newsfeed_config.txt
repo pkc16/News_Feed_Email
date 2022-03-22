@@ -1,0 +1,5 @@
+[Settings]
+api_key=
+url=https://newsapi.org/v2/everything?
+sender_email=
+sender_pwd=
